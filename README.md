@@ -14,7 +14,7 @@ Upload CSV files, explore multi-channel time-series interactively, and generate 
 - 🔎 Interactive zooming, scrolling, and range selection
 - ⚙️ Custom plot options (channel selection, units, CM inclusion)
 - 📑 Automated **irregularity detection** (high/low amplitude, spikes, flatlines, noise)
-- 📄 Export **PDF summary reports** for analysis
+- 📄 Export **Text File** for analysis
 
 ---
 
