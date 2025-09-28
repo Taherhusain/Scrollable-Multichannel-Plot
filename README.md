@@ -82,6 +82,14 @@ reportlab==4.2.2
 
 ---
 
+## 🖼️ Screenshot
+
+![EEG & ECG Viewer](images/screenshot_1.png)
+![EEG & ECG Viewer](images/screenshot_2.png)
+![EEG & ECG Viewer](images/screenshot_3.png)
+
+---
+
 ## 📊 Input File Format
 
 The app expects a CSV file:
