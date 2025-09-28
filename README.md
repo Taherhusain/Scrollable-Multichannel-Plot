@@ -122,10 +122,14 @@ Time,Fz,Cz,P3,C3,F3,F4,C4,P4,Fp1,Fp2,X1,X2,CM
 ## 📂 Project Structure
 
 ```
-📁 eeg-ecg-viewer
+📁 Scrollable-Multichannel-Plot
  ┣ 📄 app.py          # Main Streamlit app
  ┣ 📄 style.css       # Custom styling (optional)
  ┣ 📄 requirements.txt
+ ┣ 📁 images
+   ┣ 📄 screenshot_1.png
+   ┣ 📄 screenshot_2.png
+   ┣ 📄 screenshot_3.png
  ┣ 📄 README.md
 ```
 
