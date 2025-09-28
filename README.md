@@ -72,6 +72,7 @@ reportlab==4.2.2
 ![EEG & ECG Viewer](images/screenshot_1.png)
 ![EEG & ECG Viewer](images/screenshot_2.png)
 ![EEG & ECG Viewer](images/screenshot_3.png)
+![EEG & ECG Viewer](images/screenshot_4.png)
 
 ---
 
@@ -115,6 +116,7 @@ Time,Fz,Cz,P3,C3,F3,F4,C4,P4,Fp1,Fp2,X1,X2,CM
    ┣ 📄 screenshot_1.png
    ┣ 📄 screenshot_2.png
    ┣ 📄 screenshot_3.png
+   ┣ 📄 screenshot_4.png
  ┣ 📄 README.md
 ```
 
