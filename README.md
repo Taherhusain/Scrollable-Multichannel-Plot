@@ -61,22 +61,6 @@ reportlab==4.2.2
 
 ---
 
-## 🌐 Deployment (Streamlit Cloud)
-
-1. Push your code to **GitHub** (include `app.py`, `requirements.txt`, `README.md`, and optionally `style.css`).
-2. Go to [Streamlit Cloud](https://share.streamlit.io).
-3. Click **New app**, connect your GitHub repo.
-4. Select:
-   - **Repository:** `yourusername/eeg-ecg-viewer`
-   - **Branch:** `main`
-   - **Main file path:** `app.py`
-5. Deploy → Get a public link like:
-   ```
-   https://yourusername-eeg-ecg-viewer.streamlit.app
-   ```
-
----
-
 ## 🚀 Live Demo
 
 👉 [Click here to try the EEG & ECG Viewer](https://scrollable-multichannel-plot-ehlvwa8thmqt6deqcgrhfq.streamlit.app/)
