@@ -1,0 +1,36 @@
+/* General */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #bfa7a7;
+    color: #440606;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    color: #ba181b;
+    margin: 0;
+    font-size: 28px;
+}
+
+.header p {
+    color: #6c757d;
+    font-size: 14px;
+    margin-top: 4px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #491818 0%, #da3347 100%);
+    border-right: 1px solid #541c1c;
+}
+
+/* Chart area */
+.block-container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
