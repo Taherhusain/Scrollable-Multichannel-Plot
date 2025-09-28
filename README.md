@@ -1,4 +1,5 @@
 # EEG & ECG Interactive Viewer
+## Scrollable-Multichannel-Plot
 
 A professional web app built with **Streamlit** for visualizing EEG & ECG signals.  
 Upload CSV files, explore multi-channel time-series interactively, and generate automated reports that highlight irregular signal behavior.
@@ -32,8 +33,8 @@ https://yourusername-eeg-ecg-viewer.streamlit.app
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/eeg-ecg-viewer.git
-cd eeg-ecg-viewer
+git clone https://github.com/Taherhusain/Scrollable-Multichannel-Plot.git
+cd Scrollable-Multichannel-Plot
 pip install -r requirements.txt
 ```
 
