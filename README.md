@@ -18,16 +18,6 @@ Upload CSV files, explore multi-channel time-series interactively, and generate 
 
 ---
 
-## 🖥️ Demo
-
-Once deployed on **Streamlit Cloud**, your app will be available at:
-
-```
-https://yourusername-eeg-ecg-viewer.streamlit.app
-```
-
----
-
 ## 🚀 Installation (Local)
 
 Clone this repository and install dependencies:
