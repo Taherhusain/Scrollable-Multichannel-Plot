@@ -115,7 +115,7 @@ Time,Fz,Cz,P3,C3,F3,F4,C4,P4,Fp1,Fp2,X1,X2,CM
   - **High amplitude fluctuations**
   - **Flat signals**
   - **Spikes/noise bursts**
-- Exports a **PDF report** summarizing irregularities.
+- Exports a **Text File** summarizing irregularities.
 
 ---
 
@@ -140,7 +140,3 @@ Developed with:
 - [ReportLab](https://www.reportlab.com/dev/opensource/)
 
 ---
-
-## 📜 License
-
-This project is released under the MIT License.
